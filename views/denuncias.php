@@ -17,7 +17,6 @@
 
     <script>
         $(document).ready(function () {
-            $('#imagenPortada').outerHeight($('#noticias').outerHeight());
             $('input[value=Enviar]').click(function () {
                 $('form')[0].reset();
                 $('form').before(
@@ -41,12 +40,12 @@
 
         <div class="container">
             <div id="denuncias" class="caja">
-                <h3>Realizar una denuncia</h3>
+                <h5>Realizar una denuncia</h3>
                 <form class="row">
                     <div class="col-md-6">
                         <div class="form-group">
                             <h6>Título</h6>
-                            <input type="email" class="form-control" id="exampleFormControlInput1">
+                            <input type="text" class="form-control" id="exampleFormControlInput1">
                         </div>
                         <div class="form-group">
                             <h6>Descripción</h6>

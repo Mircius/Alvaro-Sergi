@@ -16,6 +16,9 @@
                     <a class="nav-link" href="debates.php">debates</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="chats.php">chats</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="denuncias.php">denuncias</a>
                 </li>
                 <li class="nav-item">

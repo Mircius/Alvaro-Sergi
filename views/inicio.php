@@ -46,12 +46,12 @@
 
         <div class="container">
             <div id="inicioSuperior" class="row">
-                <div class="col-md-8">
+                <div class="col-md-9">
                     <div id="imagenPortada" class="caja apartadoInicio">
 
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div id="noticias" class="caja apartadoInicio">
                         <h5 class="tituloApartado">Últimas noticias</h5>
                         <h6>Título noticia 1</h6>
@@ -64,26 +64,34 @@
                 </div>
             </div>
             <div id="inicioInferior" class="row">
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="apartadoInicio caja">
                         <h5 class="tituloApartado">Debates</h5>
-                        <div class="circulo"></div>
+                        <div class="imagenApartado"></div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rutrum enim vel purus suscipit,
                             vitae convallis ex placerat. Quisque commodo mollis consequat.</p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
+                    <div class="apartadoInicio caja">
+                        <h5 class="tituloApartado">Chats</h5>
+                        <div class="imagenApartado"></div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rutrum enim vel purus suscipit,
+                            vitae convallis ex placerat. Quisque commodo mollis consequat.</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
                     <div class="apartadoInicio caja">
                         <h5 class="tituloApartado">Denuncias</h5>
-                        <div class="circulo"></div>
+                        <div class="imagenApartado"></div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rutrum enim vel purus suscipit,
                             vitae convallis ex placerat. Quisque commodo mollis consequat.</p>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div class="apartadoInicio caja">
                         <h5 class="tituloApartado">Intercambios</h5>
-                        <div class="circulo"></div>
+                        <div class="imagenApartado"></div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rutrum enim vel purus suscipit,
                             vitae convallis ex placerat. Quisque commodo mollis consequat.</p>
                     </div>
