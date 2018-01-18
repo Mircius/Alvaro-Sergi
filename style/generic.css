@@ -1,0 +1,129 @@
+.navbar {
+    border-bottom: 5px solid #72a8ff;
+}
+
+.navbar-brand {
+    padding: 1em;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-position: center;
+  	background-attachment: fixed;
+  	background-repeat: no-repeat;
+}
+
+.usuario {
+    color: #72a8ff !important;
+}
+
+.btn-100 {
+    margin-top: 1em;
+    width: 100%;
+}
+
+h3 {
+    margin-bottom: 1em;
+    color: #72a8ff;
+}
+
+/* INICIO ------------------------------------- */
+
+#inicioInferior {
+    margin-bottom: 1em;
+}
+
+#inicioInferior .apartadoInicio {
+    border-top: 0.3em solid #72a8ff;
+}
+
+.caja {
+    background-color: white;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.tituloApartado {
+    color: #72a8ff;
+    margin-bottom: 1em;
+}
+
+#imagenPortada {
+    border-right: 0.3em solid #72a8ff;
+    background-image: url(../img/people.jpg);
+    -webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-position: center;
+  	background-repeat: no-repeat;
+}
+
+#noticias {
+    border-left: 0.3em solid #72a8ff;
+}
+
+.circulo {
+    height: 6em;
+    background-color: #72a8ff;
+    margin-bottom: 1em;
+}
+
+/* DENUNCIAS ------------------------------------- */
+
+.upload-drop-zone {
+    height: 200px;
+    border-width: 2px;
+    margin-bottom: 1em;
+    border-left: 0.3em solid #72a8ff !important;
+}
+
+.upload-drop-zone {
+    color: #ccc;
+    border-style: dashed;
+    border-color: #ccc;
+    line-height: 200px;
+    text-align: center;
+    border-radius: 0.4em;
+}
+
+.upload-drop-zone.drop {
+    color: #72a8ff;
+    border-color: #72a8ff;
+}
+
+#denuncias {
+    border-top: 0.3em solid #72a8ff !important;
+    margin-bottom: 1em;
+}
+
+.list-group-item {
+    border-left: 0.3em solid #72a8ff !important;
+}
+
+.alert-success {
+    background-color: #72a8ff;
+    margin-right: 1em;
+    padding: 0.5em;
+    color: white;
+}
+
+#adjuntarArchivo {
+    margin-bottom: 1em;
+}
+
+.form-control {
+    border-left: 0.3em solid #72a8ff !important;
+}
+
+.custom-file {
+    border: none;
+}
+
+.descripcion {
+    height: 200px;
+}
