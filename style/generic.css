@@ -31,6 +31,10 @@ h5 {
     color: #72a8ff;
 }
 
+.btn {
+    border: solid 1px #ccc;
+}
+
 /* INICIO ------------------------------------- */
 
 #inicioInferior {
@@ -154,11 +158,11 @@ h5, h6 {
 }
 
 .mensajeRecibido {
-    border-left: 0.5em solid #72a8ff;
+    border-left: 0.3em solid #72a8ff;
 }
 
 .mensajeEnviado {
-    border-right: 0.5em solid #72a8ff;
+    border-right: 0.3em solid #72a8ff;
     border-color: #72a8ff;
 }
 
@@ -172,4 +176,51 @@ h5, h6 {
     -moz-border-radius: 50%; 
     -webkit-border-radius: 50%; 
     border-radius: 50%;
+}
+
+#cabeceraChat {
+    border-bottom: solid 0.3em #72a8ff;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#cabeceraChat h5 {
+    margin-bottom: 0.5em;
+}
+
+#cabeceraChat h6 {
+    font-weight: normal;
+}
+
+#ventanaChat {
+    height: 30em;
+    overflow-y: scroll;
+}
+
+#inputMensaje {
+    margin-top: 0.5em;
+}
+
+#inputMensaje .input-group {
+    margin-bottom: 0 !important;
+}
+
+
+::-webkit-scrollbar-track
+{
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    background-color: white;
+}
+
+::-webkit-scrollbar
+{
+    width: 0.3em;
+}
+
+::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #72a8ff;
 }
