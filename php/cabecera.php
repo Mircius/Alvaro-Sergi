@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <a class="navbar-brand" href="#">
-            Cornellà de Llobregat
+            <img src="../img/logo-01.svg" height="80" class="d-inline-block align-top" alt=""> 
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navegacion" aria-controls="navbarSupportedContent"
             aria-expanded="false" aria-label="Toggle navigation">
