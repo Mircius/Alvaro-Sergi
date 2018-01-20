@@ -169,7 +169,7 @@ h5, h6 {
     border-right: 0.1em solid #e9ecef;
     padding: 0;
 }
-#chatsDisponibles .active {
+#chatsDisponibles .active, #chatsDisponibles .nav-link:hover {
     background-color: #ccc !important;
     border-radius: 0;
     color: #495057;
