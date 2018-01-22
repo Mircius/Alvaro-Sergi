@@ -49,7 +49,7 @@
                         </div>
                         <div class="form-group">
                             <h6>Descripción</h6>
-                            <textarea class="descripcion form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                            <textarea class="descripcion form-control" rows="5"></textarea>
                         </div>
                     </div>
                     <div class="col-md-6">
