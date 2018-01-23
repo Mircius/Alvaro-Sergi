@@ -251,16 +251,21 @@ h5 {
     margin-bottom: 0 !important;
 }
 
-#tags {
+#tags, #emails {
     margin-top: 0.5em;
 }
 
-.tag {
+.tag, .email {
     background-color: #72a8ff;
     padding: 0.5em;
     border-radius: 0.3em;
     margin: 0.3em;
     display: inline-block;
+}
+
+.email {
+    background-color: #495057;
+    color: white;
 }
 
 #crearChat {
