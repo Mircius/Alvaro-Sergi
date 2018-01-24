@@ -50,8 +50,13 @@ h5 {
 ::-webkit-scrollbar-thumb
 {
     border-radius: 10px;
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
     background-color: #72a8ff;
+}
+
+h5, h6 {
+    font-weight: bold;
 }
 
 /* INICIO ------------------------------------- */
@@ -271,4 +276,16 @@ h5 {
 #crearChat {
     margin-top: 0.5em;
     margin-bottom: 1em;
+}
+
+#buscar {
+    margin-bottom: 0.5em;
+}
+
+#unase {
+    margin-bottom: 1em;
+}
+
+.seleccionado {
+    background-color: #e9ecef;
 }
