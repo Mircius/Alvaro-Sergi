@@ -44,18 +44,18 @@
                 <form class="row">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <h6>Título</h6>
+                            <label>Título</label>
                             <input type="text" class="form-control" id="exampleFormControlInput1">
                         </div>
                         <div class="form-group">
-                            <h6>Descripción</h6>
+                            <label>Descripción</label>
                             <textarea class="descripcion form-control" rows="5"></textarea>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="panel-body">
                             <div id="adjuntarArchivo">
-                                <h6>Adjuntar archivo</h6>
+                                <label>Adjuntar archivo</label>
                                 <div class="form-group">
                                     <div class="form-control custom-file">
                                         <input type="file" class="custom-file-input">
@@ -63,14 +63,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <h6>O arrástrelo</h6>
+                            <label>O arrástrelo</label>
                             <div class="upload-drop-zone" id="drop-zone">
                                 Arrastre su archivo aquí
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 js-upload-finished">
-                        <h6>Archivos adjuntos</h6>
+                        <label>Archivos adjuntos</label>
                         <div class="list-group">
                             <a class="list-group-item">
                                 <span class="badge alert-success pull-right">jpg</span> imagen1</a>
